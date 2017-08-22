@@ -1,0 +1,6 @@
+framework module Pods_GoogleMapWeatherApp {
+  umbrella header "Pods-GoogleMapWeatherApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
